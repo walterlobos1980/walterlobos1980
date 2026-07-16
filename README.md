@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hola, soy Walter Lobos 👋
 
-<!--
-**walterlobos1980/walterlobos1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Una frase corta sobre quién eres y a qué te dedicas]
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente trabajando en: [proyecto/empresa]
+- 🌱 Aprendiendo: [tecnología/habilidad]
+- 👯 Buscando colaborar en: [tipo de proyectos]
+- 💬 Pregúntame sobre: [temas]
+- 📫 Cómo contactarme: [email/LinkedIn]
+- ⚡ Dato curioso: [algo personal]
+
+## Habilidades
+
+**Lenguajes:** [ej. Python, JavaScript, SQL]
+
+**Herramientas:** 
+
+**Otros:** [ej. metodologías, frameworks]
+
+## Experiencia
+
+**[Puesto] — [Empresa]** (fecha inicio – fecha fin)
+Breve descripción de responsabilidades y logros.
+
+**[Puesto] — [Empresa]** (fecha inicio – fecha fin)
+Breve descripción de responsabilidades y logros.
+
+## Proyectos destacados
+
+- **[Nombre del proyecto]** — descripción breve. [Link]
+- **[Nombre del proyecto]** — descripción breve. [Link]
+
+## Educación
+
+**[Título]** — [Institución] (año)
+
+## Contacto
+
+- Email: [tu correo]
+- LinkedIn: [enlace]
