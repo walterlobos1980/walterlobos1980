@@ -1,19 +1,16 @@
 # Hola, soy Walter Lobos 👋
 
-[Una frase corta sobre quién eres y a qué te dedicas]
+Soy Estadistico de profesion, apasionado en los modelos de ML y la inteligencia artificial, tengo experiencia en business intelligence y storytelling. Cuento con experiencia automatizando procesos y diseñañndo soluciones accesibles para equipos de distintos niveles.
 
 ## Sobre mí
 
-- 🔭 Actualmente trabajando en: [proyecto/empresa]
-- 🌱 Aprendiendo: [tecnología/habilidad]
-- 👯 Buscando colaborar en: [tipo de proyectos]
-- 💬 Pregúntame sobre: [temas]
-- 📫 Cómo contactarme: [email/LinkedIn]
-- ⚡ Dato curioso: [algo personal]
+- 🔭 Actualmente  Open to Work
+- 🌱 Aprendiendo: GCP, MLOPS
+- 👯 Buscando colaborar en: Machine Learning riesgo crediticio/fraude
 
 ## Habilidades
 
-**Lenguajes:** [ej. Python, JavaScript, SQL]
+**Lenguajes:** Excel, Power BI, Tableu, Looker Studio, SQL, MySql, Python, Project
 
 **Herramientas:** 
 
@@ -27,7 +24,7 @@ Breve descripción de responsabilidades y logros.
 **[Puesto] — [Empresa]** (fecha inicio – fecha fin)
 Breve descripción de responsabilidades y logros.
 
-## Proyectos destacados
+## Proyectos % Trabajo ##
 
 - **[Nombre del proyecto]** — descripción breve. [Link]
 - **[Nombre del proyecto]** — descripción breve. [Link]
