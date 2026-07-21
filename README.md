@@ -1,6 +1,6 @@
 # Hola, soy Walter Lobos 👋
 
-Soy Estadistico de profesion, apasionado en los modelos de ML y la inteligencia artificial, tengo experiencia en business intelligence y storytelling. Cuento con experiencia automatizando procesos y diseñañndo soluciones accesibles para equipos de distintos niveles.
+Soy Estadistico de profesion, apasionado en los modelos de ML y la inteligencia artificial, tengo experiencia en business intelligence y storytelling en empresas de Telecomunicaciones, adaptado para aplicar mis conocimientos en banca, retail, transporte, seguridad, recursos humanos, logistica, E-commerce, ect. Cuento con experiencia automatizando procesos y diseñañndo soluciones accesibles para equipos de distintos niveles.
 
 ## Sobre mí
 
