@@ -18,10 +18,22 @@ Soy Estadistico de profesion, apasionado en los modelos de ML y la inteligencia 
 
 <div align="center">
 
-## mi conbinacion
+## 
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,solidity,rust,python,postgres,tailwind,git,github,docker,vscode&perline=7" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,r,python,git,github,docker,vscode,aws,gcp&perline=7" alt="tech stack">
 
+<!-- Data & Analytics Tools -->
+<img src="https://img.shields.io/badge/IBM_SPSS-CC292B?style=for-the-badge&logo=ibm&logoColor=white" alt="SPSS">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Stata-1A5276?style=for-the-badge&logo=stata&logoColor=white" alt="Stata">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Looker Studio">
+
+<!-- Microsoft Excel -->
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+<!-- Microsoft Access -->
+<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Access">
+<!-- Microsoft Project -->
+<img src="https://img.shields.io/badge/Microsoft_Project-31752F?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Project">
 </div>
 
 ## Experiencia
@@ -66,3 +78,9 @@ Breve descripción de responsabilidades y logros.
 <a href="https://x.com/TU_USUARIO_AQUI" target="_blank"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=aa9bef" alt="X"></a>
 
 <br>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=walterlobos1980&style=flat&color=aa9bef&label=profile+views" alt="profile views">
+
+</div>
