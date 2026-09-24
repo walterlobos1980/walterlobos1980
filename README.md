@@ -16,6 +16,14 @@ Soy Estadistico de profesion, apasionado en los modelos de ML y la inteligencia 
 
 **Otros:** [ej. metodologías, frameworks]
 
+<div align="center">
+
+## mi conbinacion
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,solidity,rust,python,postgres,tailwind,git,github,docker,vscode&perline=7" alt="tech stack">
+
+</div>
+
 ## Experiencia
 
 **[Subgerente de Operaciones/ Analytics] — [Inelcom S.A., ]** (09/2024 – 03/2026)
@@ -49,3 +57,12 @@ Breve descripción de responsabilidades y logros.
 
 - Email: wlobos1980@gmail.com/ walter.lobos.cardenas@gmail.com
 - LinkedIn: www.linkedin.com/in/walterlobosc
+
+  <br>
+
+<!-- SOCIALS — LinkedIn stays brand blue. Others themed. -->
+<a href="https://www.linkedin.com/in/walterlobosc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/walterwolf1980" target="_blank"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=aa9bef" alt="Instagram"></a>&nbsp;&nbsp;
+<a href="https://x.com/TU_USUARIO_AQUI" target="_blank"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=aa9bef" alt="X"></a>
+
+<br>
